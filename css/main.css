@@ -22,11 +22,11 @@ nav ul {
   color: #93a1a1;
 }
 
-wrapper > .dfn {
+.wrapper > .dfn {
   background-color: #b58900;
 }
 
-.dfn + strong {
+.dfn p+ strong {
   color: #fff;
 }
 
